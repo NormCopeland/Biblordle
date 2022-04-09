@@ -1,4 +1,4 @@
-export const GAME_TITLE = '📖 BIBLE WORDLE 📖'
+export const GAME_TITLE = '📖 BIBLORDLE 📖'
 
 export const WIN_MESSAGES = ['Great Job!', 'Well done good and faithful servant!','Glorious!','Blessed!','AMEN!','Hallelujah!','PTL!']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
