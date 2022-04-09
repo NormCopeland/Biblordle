@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biblordle/static/css/main.cc508040.css",
+    "main.js": "/biblordle/static/js/main.6560442a.js",
+    "static/js/787.b3f9d252.chunk.js": "/biblordle/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/biblordle/index.html",
+    "main.cc508040.css.map": "/biblordle/static/css/main.cc508040.css.map",
+    "main.6560442a.js.map": "/biblordle/static/js/main.6560442a.js.map",
+    "787.b3f9d252.chunk.js.map": "/biblordle/static/js/787.b3f9d252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc508040.css",
+    "static/js/main.6560442a.js"
+  ]
+}
