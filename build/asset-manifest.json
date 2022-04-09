@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Biblordle/static/css/main.cc508040.css",
-    "main.js": "/Biblordle/static/js/main.26069ef0.js",
-    "static/js/787.b3f9d252.chunk.js": "/Biblordle/static/js/787.b3f9d252.chunk.js",
-    "index.html": "/Biblordle/index.html",
-    "main.cc508040.css.map": "/Biblordle/static/css/main.cc508040.css.map",
-    "main.26069ef0.js.map": "/Biblordle/static/js/main.26069ef0.js.map",
-    "787.b3f9d252.chunk.js.map": "/Biblordle/static/js/787.b3f9d252.chunk.js.map"
+    "main.css": "/biblordle/static/css/main.cc508040.css",
+    "main.js": "/biblordle/static/js/main.6560442a.js",
+    "static/js/787.b3f9d252.chunk.js": "/biblordle/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/biblordle/index.html",
+    "main.cc508040.css.map": "/biblordle/static/css/main.cc508040.css.map",
+    "main.6560442a.js.map": "/biblordle/static/js/main.6560442a.js.map",
+    "787.b3f9d252.chunk.js.map": "/biblordle/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc508040.css",
-    "static/js/main.26069ef0.js"
+    "static/js/main.6560442a.js"
   ]
 }
