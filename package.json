@@ -1,7 +1,7 @@
 {
   "name": "game",
   "version": "0.1.0",
-  "homepage": "https://normcopeland.github.io/Biblordle",
+  "homepage": "https://normcopeland.github.io/biblordle",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.4.2",
