@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/biblordle/static/css/main.cc508040.css",
-    "main.js": "/biblordle/static/js/main.dbb933d3.js",
+    "main.js": "/biblordle/static/js/main.ecdc2985.js",
     "static/js/787.b3f9d252.chunk.js": "/biblordle/static/js/787.b3f9d252.chunk.js",
     "index.html": "/biblordle/index.html",
     "main.cc508040.css.map": "/biblordle/static/css/main.cc508040.css.map",
-    "main.dbb933d3.js.map": "/biblordle/static/js/main.dbb933d3.js.map",
+    "main.ecdc2985.js.map": "/biblordle/static/js/main.ecdc2985.js.map",
     "787.b3f9d252.chunk.js.map": "/biblordle/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc508040.css",
-    "static/js/main.dbb933d3.js"
+    "static/js/main.ecdc2985.js"
   ]
 }
