@@ -57,7 +57,8 @@ export const StatsModal = ({
       isOpen={isOpen}
       handleClose={handleClose}
     >
-      <div className='font-sans text-sky-400'><a href={BIBLE_URL(solution)}>Where in the Bible is {solution}?</a></div>
+      {(isGameLost || isGameWon) && (
+      <div className='font-sans text-sky-400'><a href={BIBLE_URL(solution)}>Where in the Bible is {solution}?</a></div>)}
       <StatBar gameStats={gameStats} />
       <h4 className="text-lg leading-6 font-medium text-gray-900 dark:text-gray-100">
         {GUESS_DISTRIBUTION_TEXT}
